@@ -1,6 +1,5 @@
 ## ExpNo 4 : Implement Simple Hill Climbing Algorithm
-## Name: AUGUSTINE J
-## Register Number:212222240015
+
 ## Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration.
 
